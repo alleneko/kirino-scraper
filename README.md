@@ -1,6 +1,6 @@
 # Kirino Scraper
 
-Kirino Scraper is a CLI anime figure scraper that scrapes Solaris Japan from an spreadsheet list.
+Kirino Scraper is a CLI anime figure scraper that scrapes websites from a spreadsheet list.
 
 pre-reqs:
 	selenium
@@ -16,15 +16,13 @@ Step 2: Run kiririn.py
 
 
 ## Goals
-1. Add support for Ninoma
-2. Add support for Nin-Nin Game
-3. Add myfigurecollection scraper
+1. Add myfigurecollection scraper
 	+ Automatically add figures to spreadsheet
 		- Figures sheet
 		- Sites they're available
-4. Add multithreading
-5. Add IP rotation
-6. Learn more advanced scraping techniques
-7. Add more sites
+2. Add multithreading
+3. Add IP rotation
+4. Learn more advanced scraping techniques
+5. Add more sites
 
 
